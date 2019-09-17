@@ -1,4 +1,6 @@
-# Authentication using JSON Web Tokens (JWTs)
+![](andy.jpg)
+
+# Authentication using JSON Web Tokens (JWTs) Dillon
 
 ## Topics
 
